@@ -38,3 +38,4 @@ const resetTimer =()=>{
     timeLeft=1500;
     updateTimer();
 }
+
